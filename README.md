@@ -37,19 +37,23 @@ Uncovered clusters of similar reviews to analyze common patterns and themes.
 
 ## 📊 Results & Analysis
 
-### Word Cloud & Term Frequency
+### Top Words from Corpus for hit & flop movie
+
 ![Picture 1](screenshots/Picture1.png)
 ![Picture 2](screenshots/Picture2.png)
 
-### Named Entity Recognition Output
+### Named Entities identified from Corpus for hit & flop movie
+
 ![Picture 3](screenshots/Picture3.png)
 ![Picture 4](screenshots/Picture4.png)
 
-### Clustering Analysis
+###  Word Cloud for hit movie  & flop movie
+
 ![Picture 5](screenshots/Picture5.png)
 ![Picture 6](screenshots/Picture6.png)
 
-### Sentiment Classification Visuals
+###  Hierarchical clustering of important terms for hit and flop movie
+
 ![Picture 7](screenshots/Picture7.png)
 ![Picture 8](screenshots/Picture8.png)
 
