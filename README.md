@@ -38,20 +38,20 @@ Uncovered clusters of similar reviews to analyze common patterns and themes.
 ## 📊 Results & Analysis
 
 ### Word Cloud & Term Frequency
-![Picture 1](screenshots/picture1.png)
-![Picture 2](screenshots/picture2.png)
+![Picture 1](screenshots/Picture1.png)
+![Picture 2](screenshots/Picture2.png)
 
 ### Named Entity Recognition Output
-![Picture 3](screenshots/picture3.png)
-![Picture 4](screenshots/picture4.png)
+![Picture 3](screenshots/Picture3.png)
+![Picture 4](screenshots/Picture4.png)
 
 ### Clustering Analysis
-![Picture 5](screenshots/picture5.png)
-![Picture 6](screenshots/picture6.png)
+![Picture 5](screenshots/Picture5.png)
+![Picture 6](screenshots/Picture6.png)
 
 ### Sentiment Classification Visuals
-![Picture 7](screenshots/picture7.png)
-![Picture 8](screenshots/picture8.png)
+![Picture 7](screenshots/Picture7.png)
+![Picture 8](screenshots/Picture8.png)
 
 
 
