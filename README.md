@@ -35,6 +35,25 @@ Applied hierarchical clustering to discover relationships among frequently menti
 
 Uncovered clusters of similar reviews to analyze common patterns and themes.
 
+## 📊 Results & Analysis
+
+### Word Cloud & Term Frequency
+![Picture 1](screenshots/picture1.png)
+![Picture 2](screenshots/picture2.png)
+
+### Named Entity Recognition Output
+![Picture 3](screenshots/picture3.png)
+![Picture 4](screenshots/picture4.png)
+
+### Clustering Analysis
+![Picture 5](screenshots/picture5.png)
+![Picture 6](screenshots/picture6.png)
+
+### Sentiment Classification Visuals
+![Picture 7](screenshots/picture7.png)
+![Picture 8](screenshots/picture8.png)
+
+
 
 🛠 Tech Stack
 Language: Python
